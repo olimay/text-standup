@@ -3,7 +3,7 @@ prompt = """Standup for Day MM-DD
 
 *_What are you doing today?_*
 
-*_Are we still on track this week? What _*
+*_Are we still on track for this sprint?_*
 
 """
 print(prompt)
