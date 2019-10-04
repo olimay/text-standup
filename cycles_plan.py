@@ -1,3 +1,4 @@
 prompt = """
 S:
 """
+print(prompt)
